@@ -1,63 +1,62 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hanzz%20Dev&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0b2a3d,100:0f4c75&height=190&section=header&text=Hanzz&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 Web Developer | UI Explorer | Tech Learner</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+cool+things+with+code;Frontend+%7C+Backend+Explorer;Designing+UI+with+Figma;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=4FC3F7&center=true&vCenter=true&width=600&lines=Creative+Web+Developer;Frontend+Enjoyer+%7C+Backend+Explorer;UI+Designer+with+Figma;Building+Future+Ready+Projects;From+Indonesia+With+Code+%F0%9F%87%AE%F0%9F%87%A9" />
 </p>
 
----
-
-## 🧬 About Me
-> Builder mindset. Curious brain. Slightly obsessed with clean UI and smooth logic.
-
-I'm a student developer from Indonesia who enjoys crafting web systems, dashboards, automation tools, and experimental projects.  
-I focus on **Frontend**, learning **Backend step by step**, and designing interfaces using **Figma**.
-
-No shortcuts. No fake skills. Just consistent improvement.
-
----
-
-## ⚡ Tech Stack
-
 <p align="center">
-  
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-  <br/>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <br/>
-
-  <!-- Design -->
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <br/>
-
-  <!-- Learning -->
-  <img src="https://skillicons.dev/icons?i=laravel" />
-
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&style=for-the-badge&color=0f4c75" />
 </p>
 
 ---
 
-## 🧪 What I Build
-✨ Web dashboards & panels  
-⚡ Automation tools  
-🧠 Experimental systems  
-🎨 UI-focused web apps  
+## 🧠 Identity
+> Code is my playground. Curiosity is my engine. Consistency is my weapon.
 
-More fire projects coming soon.
+Student developer focused on crafting modern web experiences, automation systems, and scalable logic.  
+Strong in **Frontend**, growing in **Backend**, and obsessed with clean UI using **Figma**.
+
+Not chasing hype. Chasing mastery.
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 Skill Matrix
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma,laravel" />
+</p>
+
+---
+
+## 🛠 Current Focus
+🔥 UI engineering & interaction  
+⚙️ Backend fundamentals  
+📦 Project architecture  
+🎯 Real-world problem solving  
+
+---
+
+## 🧪 Lab Zone
+> Where experiments turn into weapons.
+
+- Web Panels & Dashboards  
+- Automation Bots  
+- System Tools  
+- Interactive Web Projects  
+
+---
+
+## 📊 Performance
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mallnotdevv&show_icons=true&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallnotdevv&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mallnotdevv&theme=react&hide_border=true" />
 </p>
 
 ---
@@ -65,8 +64,6 @@ More fire projects coming soon.
 ## 🌐 Connect
 - GitHub → https://github.com/Mallnotdevv
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:0b2a3d,100:050d1a&height=120&section=footer" />
 </p>
