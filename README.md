@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0b2a3d,100:0f4c75&height=190&section=header&text=Hanzz&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0b2a3d,100:0f4c75&height=190&section=header&text=Xyraa&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&style=for-the-badge&color=0f4c75" />
+  <img src="https://komarev.com/ghpvc/?username=Mallnotdevv&style=for-the-badge&color=0f4c75" />
 </p>
 
 ---
